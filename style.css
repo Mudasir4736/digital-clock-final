@@ -345,6 +345,7 @@ body {
         position: static;
     }
     .box2{
+      width: 100%;
         position: static;
     }
     .good1{
@@ -385,7 +386,7 @@ body {
         display: none;
     }
     .box5{
-        width: 350px;
+        width:100%;
     }
     .sub1{
         display: none;
@@ -416,9 +417,12 @@ body {
     .set1{
         position: static;
         margin-bottom: inherit;
+        width: 100%;
     }
     .box2{
         position: static;
+        width: 350px;
+        text-align: center;
     }
     .good1{
         position: static;
