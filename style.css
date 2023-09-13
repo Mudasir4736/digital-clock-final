@@ -310,7 +310,7 @@ body {
     overflow-y: scroll;
   } */
 
-@media (min-width:590px) and (max-width:1300px) {
+@media (min-width:590px) and (max-width:1000px) {
     .container{
         display: flex;
         flex-direction: column;
